@@ -1,0 +1,167 @@
+* Guide: Computer Science and Web Development - comprehensive path  
+  Note: [[https://forum.freecodecamp.com/users/kevcomedia][@kevcomedia]] has ported the entire list into a Trello board you can clone to keep track of your 
+  progress you can find the Trello board [[https://trello.com/b/4v9dpn3G/cs-wd][here]].
+
+  Note: Scroll to the bottom and read the "Things to Keep in Mind" section. It contains information about 
+  how to approach the list that is just as important as the list itself.
+
+  Note: This Guide is heavier on computer science than the other, if you want less of the heavier computer 
+  science and more on practical web development you might want to check out 
+[[https://forum.freecodecamp.com/t/computer-guide-web-development-with-computer-science-foundations-comprehensive-path/64516][  Guide: Web Development with Computer Science Foundations - comprehensive path ]] as well and pick the one 
+  that most meets your goals.
+** Prerequisite 
+   The only things that you need to know are how to use Git and GitHub. Here are some resources to learn about them:
+   Note: Just pick one of the courses below to learn the basics. You will learn a lot more once you get started!
+   + [[https://try.github.io/levels/1/challenges/1][Try Git]]
+   + [[http://rogerdudler.github.io/git-guide/][Git - the simple guide]]
+   + [[https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-][GitHub Training &amp; Guides]]
+   + [[https://guides.github.com/activities/hello-world/][GitHub Hello World]]
+   + [[http://gitimmersion.com/index.html][Git Immersion]]
+   + [[https://www.udacity.com/course/how-to-use-git-and-github--ud775][How to Use Git and GitHub]]
+
+  There WILL be math. And, it's important. If the thought frightens you, or bores you, or has you thinking
+  "this isn't for me", head to [[https://www.khanacademy.org/][Khan Academy]] right now, sign up, and start devoting 30 minutes a day. This 
+  is an investment that will pay off. I'm not making this up.
+** Tier 1 - Getting Started
+*** Book: [[https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going][You Don't Know JS: Up & Going]]
+*** Book: [[https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures][You Don't Know JS: Scope & Closures]]
+*** Book: [[https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes][You Don't Know JS: this & Object Prototypes]]
+*** Course: [[http://learn.shayhowe.com/html-css/][Learn to Code HTML & CSS]]
+*** Project: Clone [[https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2][this]] online resume template
+*** Course: [[https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!][Introduction to Computer Science - CS50]]
+*** Book: [[https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar][You Don't Know JS: Types & Grammar]]
+*** Book: [[https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance][You Don't Know JS: Async & Performance]]
+*** Book: [[https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond][You Don't Know JS: ES6 & Beyond]]
+*** Course: [[http://learn.shayhowe.com/advanced-html-css/][Learn to Code Advanced HTML & CSS]]
+*** Project: Portfolio from the frontend section of FCC
+*** Article: Read [[http://www.pixelearth.net/pages/project-specification][Project Specification Documents]] and get in the habit of including every bit of information 
+    it details that makes sense for a project in the README.md or other supporting documentation for your projects
+*** Course: [[https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x][Effective Thinking Through Mathematics]]
+*** Book: [[https://leanpub.com/setting-up-es6/read][Setting Up ES6]]
+*** Book: [[https://leanpub.com/javascriptallongesix][JavaScript Allongé, the "Six" Edition]]
+*** Course: [[http://www.sassshop.com/#/][Getting Sassy with Sass]]
+*** Project: Build an online Towers of Hanoi solver that accepts a tower height between 5 and 10, and then displays 
+    a graphical (animated) solution, iteratively moving each piece until the puzzle is solved
+** Tier 2 - develop more expertise 
+*** Course: [[https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd1x][How to Code: Systematic Program Design - Part 1]]    
+*** Course: [[https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd2x][How to Code: Systematic Program Design - Part 2]]    
+*** Course: [[https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd3x][How to Code: Systematic Program Design - Part 3]]
+*** Book:  [[http://domenlightenment.com/][DOM Enlightenment]]    
+*** Project:  Simon Game from the frontend section of FCC    
+*** Project:  Complete all Classic Puzzles - Easy on [[https://www.codingame.com/][CodinGame]] in JavaScript        
+*** Course:  [[https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0][Introduction to MongoDB using the MEAN Stack]] on edX    
+*** The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want. 
+*** Course: [[https://www.coursera.org/learn/calculus1][Calculus One]]    
+*** Book:  [[https://addyosmani.com/resources/essentialjsdesignpatterns/book/][JavaScript Design Patterns]]
+*** Project: Clone [[https://blackrockdigital.github.io/startbootstrap-creative/][this]] landing page  
+*** Course: [[https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm][Mathematics for Computer Science]]
+*** Article: Read [[http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS][Algorithms and Flowcharts]] and then familiarize yourself with [[http://pencil.evolus.vn/][Pencil]] ... start flowcharting complex portions of your        
+             code logic as part of your documentation
+*** Project:  Clone [[http://rubix410.sketchpixy.com/ltr/dashboard][this Admin template]] using React, Angular, or Vue
+*** Book: [[http://greenteapress.com/wp/think-java/][Think Java - How to Think Like a Computer Scientist]] 
+*** Book:  [[http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf][Open Data Structures]]
+*** Course: [[https://www.coursera.org/course/algs4partI][Algorithms, Part I]]    
+*** Course: [[https://www.coursera.org/course/algs4partII][Algorithms, Part II]]
+*** Project: Complete all challenges from the [[https://code.google.com/codejam/contest/6224486/dashboard][Code Jam Qualification Round 2015]]
+*** Project: Clone the front page of [[https://urbanarmorgear.com/][this]] website modifying it to highlight a different product or industry. Make special note of the secondary     
+             navigation bar at the top. Implementing that is the highlight of this project.
+*** Course: [[https://www.udacity.com/course/ux-design-for-mobile-developers--ud849][UX Design for Mobile Developers]]  
+*** Course: [[https://www.udacity.com/course/android-development-for-beginners--ud837][Android Development for Beginners]]    
+*** Project: Build the Pomodoro project from the FCC frontend curriculum - as an android app
+** Tier 3 - add more rigor
+*** Book: [[https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details][Professor Frisby's Mostly Adequate Guide to Functional Programming]]    
+*** Course: [[https://www.udacity.com/course/software-testing--cs258][Software Testing]]    
+*** Course: [[https://www.udacity.com/course/software-debugging--cs259][Software Debugging]]  
+*** Project: Clone the Netflix interface using React, Angular, or Vue - pulling data from [[https://www.themoviedb.org/documentation/api][the Movie DB API]] or an API in a backend you create yourself.
+*** Course: [[https://www.coursera.org/learn/advanced-calculus][Calculus Two: Sequences and Series]]    
+*** Project: Complete all Classic Puzzles - Medium on [[https://www.codingame.com/][CodinGame]] in JavaScript    
+*** Course: [[https://www.udacity.com/course/software-architecture-design--ud821][Software Architecture &amp; Design]] 
+*** Project: Complete all challenges from the [[https://code.google.com/codejam/contest/4224486/dashboard][Code Jam Round 1A 2015]] 
+*** Book: [[https://leanpub.com/javascript-spessore/read][JavaScript Spessore]]    
+*** Project: Clone [[https://blackrockdigital.github.io/startbootstrap-clean-blog/][this]] blog template - note that there are multiple pages  
+*** Course: [[https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about][Databases]]    
+*** Course: [[https://www.edx.org/course/agile-software-development-ethx-asd-1x][Agile Software Development]]
+*** Project: Complete all ES6 Katas [[http://es6katas.org/][here]]
+*** Course: [[https://www.edx.org/course/introduction-cloud-computing-ieeex-cloudintro-x-0][Introduction to Cloud Computing]]   
+*** Project: Complete all challenges from the [[https://code.google.com/codejam/contest/8224486/dashboard][Code Jam Round 1B 2015]]
+*** Project: Build FaceBook:  yes, all the functionality. See [[http://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project][here]] for a list of requirements you should fullfill.
+*** Course: [[https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313][Intro to Theoretical Computer Science]]   
+*** Project: Complete all challenges from the [[https://code.google.com/codejam/contest/4244486/dashboard][Code Jam Round 1C 2015]]
+*** Course: [[https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0][Introduction to Probability - The Science of Uncertainty]]    
+*** Project: Write the CSS Necessary to create your own 12 column based grid layout - see [[http://960.gs/][here]] for an example
+*** Course: [[https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!][Linear Algebra - Foundations to Frontiers]]   
+*** Project: Complete all Classic Puzzles - Hard on [[https://www.codingame.com/][CodinGame]] in JavaScript    
+*** Course: [[https://www.coursera.org/course/crypto][Cryptography I]]       
+*** Project: Complete all challenges from the [[https://code.google.com/codejam/contest/8234486/dashboard][Code Jam Round 2 2015]]
+*** Course: [[https://www.coursera.org/course/crypto2][Cryptography II]] 
+*** Project: Clone Twitter - yes, all the functionality
+** Tier 4 - polish the rough edges
+*** Course: [[https://www.coursera.org/course/comparch][Computer Architecture]] 
+*** Project: Complete all challenges from the [[https://code.google.com/codejam/contest/4254486/dashboard][Code Jam Round 3 2015]]
+*** Course: [[https://www.futurelearn.com/courses/introduction-to-cyber-security][Introduction to Cyber Security]]   
+*** Project: Complete all Classic Puzzles - Very Hard on [[https://www.codingame.com/][CodinGame]] in JavaScript     
+*** Course: [[https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x][Computer Graphics]]    
+*** Course: [[https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x#!][Artificial Intelligence]]    
+*** Project: Complete all challenges from the [[https://code.google.com/codejam/contest/5224486/dashboard][Code Jam World Finals 2015]]
+*** Course: [[https://www.coursera.org/learn/machine-learning][Machine Learning]]  
+*** Project: Design, implement, test, and deploy a game that is playable on the web, using the technologies of your choice. The only 
+             criteria are that it be playable online, and that it inculde a substantial AI component.
+*** Course: [[https://www.youtube.com/view_play_list?p=-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c][Operating Systems and System Programming]]  
+*** Project: Create a node module that will convert markdown to properly formatted html
+*** Course: [[https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about][Compilers]]    
+*** Course: [[https://www.coursera.org/learn/natural-language-processing][Introduction to Natural Language Processing]]   
+*** Project: Clone [[http://learnharmony.org/#/?_k=0okjs7][Learn Harmony]]      
+*** Course: [[https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about][Computer Networks]]    
+*** Course: [[http://15418.courses.cs.cmu.edu/spring2016/home][Parallel Computer Architecture and Programming]]    
+*** Project: Complete all problems from all rounds of the [[https://code.google.com/codejam/contests.html][Distributed Google Code Jam 2015]] - scroll down to the appropriate section
+*** Project: Clone Slack - the functionality should be complete to the point that one user can create a room, invite other users, and 
+             all users of that room can real-time chat. The room should be secure and inaccessible to anyone but those invited.
+*** Project: Create an npm module that bootstraps a fullstack application, with Node.js on the backend, and the SPA library/framework 
+             of your choice on the frontend. Include a full test suite and comprehensive build processes. Publish it to NPM.
+*** Project: Complete all problems from all rounds of the [[https://code.google.com/codejam/contests.html][Google Code Jam 2016]] - scroll down to the appropriate section
+*** Project: Extend your CSS grid framework to include the CSS and JavaScript required to implement 5 to 10 material design components
+** Bookmarks you should have
+   + [[https://surge.sh/][surge.sh]] - deploy your frontend projects here (or use github pages)
+   + [[https://developer.mozilla.org/en-US/][MDN]] - look HTML, CSS, and JavaScript stuff up here
+   + [[https://dashboard.heroku.com/][Heroku]] - deploy your fullstack projects here (or hyperdev)
+   + [[https://firebase.google.com/][Firebase]] or [[https://mlab.com/][mLab]] - database hosting
+   + [[https://github.com/][GitHub]] - store your code here
+   + [[https://material.google.com][Material Design]] - lean on this when you need a structure for creating a minimalistic but awesome looking site
+   + [[https://www.materialpalette.com/][Material Palette]] - for selecting color schemes
+   + [[https://www.wirify.com/][Wirify]] - for quickly turning a web page into a wireframe so you can see the big picture instead of all the graphics
+** Things to keep in mind
+    + have git commits every week, most of the days of the week
+    + try to get in one of [[https://forum.freecodecamp.com/users/tropicalchancer/activity][@tropicalchancer's]] cohorts - be active once you're in
+    + try to pick one to two other languages to use regularly for solving algorithms and implementing projects in addition 
+      to JavaScript (good choices would be to pick one of C++, Java or Python and one of Golang or Rust).
+*** For each item you should:
+    + take notes, on a blog, in markdown, wherever, somewhere - not about what you read, or about what the instructor said - 
+      about what you learned
+    + build something - even if it's just a 20 line function that computes something you find interesting
+    + if you build something, document it and test it as appropriate
+    + do the exercises, build the projects - fully, not some scaled down halfassery
+*** For four projects of your chosing
+    + Seek 1-3 other developers to collaborate on the project
+    + Coordinate with the team to complete the project
+    + Build the project out to a full production quality application
+    + Invite others who are not associated with the team to rigorously test the final product.
+    + Resolve any legitimate issues found
+*** Once per month - do two or more of the following
+    + Write up a comprehensive blog post or markdown entry in a repository detailing the high points of what you learned that month
+    + Watch this [[https://www.youtube.com/watch?v=4NIb9l3imAo][video]] and this [[https://www.youtube.com/watch?v=Eg5-tdAwclo][video]] - on interviewing
+    + Read [[http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html][this]] - on crafting a resume
+    + Do one lesson from [[https://learn.saylor.org/course/view.php?id=345][CUST104: Business Communications]]
+    + Live stream what you're working on for an hour. Or, lend a hand to someone who needs help by screensharing and walking them through it.
+    + Catch up on industry reading on sites like [[https://www.joelonsoftware.com/][Joel on Software]], [[https://blog.codinghorror.com/][Coding Horror]], [[https://css-tricks.com/][CSS Tricks]], [[http://alistapart.com/articles][A List Apart]], [[http://uxmyths.com/][UX Myths]], [[http://javascriptweekly.com/][JavaScript Weekly]]
+*** if you need a breather from an item, do one of these, then get back to it
+    + complete a project from FCC that isn't included in this list
+    + pick a pet web development project you can code in a week and complete it
+    + code another android application
+    + write a guide for the FCC wiki or create a video tutorial and post it to YouTube
+    + learn golang or rust and complete any of the backend projects from FCC with that language as the backend language
+    + redo any of the algorithmic type projects you've already completed from the list, in a language other than JavaScript
+    + pick an open source project from [[https://www.codetriage.com/][Code Triage]] and contribute to fixing an open issue
+    + visit the FCC forum and pick a couple of the toughest questions, that people are having trouble getting help with, and help them
+    + code a flash cards application, for jotting quick notes you can use to quiz yourself later
+*** Additional Resources
+    + [[https://openstax.org/subjects][OpenStax]] - Open Source textbooks on a variety of University level topics, check here if you want a reference math or physics textbook
